@@ -1,4 +1,5 @@
 # Kinotron
+![](kinotron.jpeg)
 
 ### A powerful toolkit for generating complex film screenplays with the help of ComfyUI nodes and LLMs.
 
