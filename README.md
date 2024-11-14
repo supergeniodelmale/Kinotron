@@ -33,8 +33,11 @@ Before you begin, make sure you have the following installed:
 
 ### Installation
 
-1. **Clone the repository in ComfyUI's ```bash
-   custom_nodes folder**:
+1. **Clone the repository in ComfyUI's custom_nodes folder**:
    
    ```bash
    git clone https://github.com/supergeniodelmale/kinotron.git
+
+### Coming soon
+Support by ComfyUI Manager
+Nodes documentation
