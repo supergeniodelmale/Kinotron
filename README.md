@@ -39,5 +39,5 @@ Before you begin, make sure you have the following installed:
    git clone https://github.com/supergeniodelmale/kinotron.git
 
 ### Coming soon
-Support by ComfyUI Manager
-Nodes documentation
+- Support by ComfyUI Manager
+- Nodes documentation
